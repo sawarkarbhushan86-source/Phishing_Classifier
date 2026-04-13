@@ -11,6 +11,7 @@ import plotly.express as px
 from datetime import datetime
 import os
 import sys
+from typing import Dict
 from typing import Dict, List, Optional, Tuple
 
 # Add src to path
