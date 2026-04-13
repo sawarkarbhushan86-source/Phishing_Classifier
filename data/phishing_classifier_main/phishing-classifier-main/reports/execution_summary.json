@@ -1,0 +1,15 @@
+{
+    "execution_date": "2026-04-13T11:48:21.674769",
+    "training_samples": 8844,
+    "test_samples": 2211,
+    "total_features": 43,
+    "best_model": "Logistic Regression",
+    "model_path": "models\\model_Logistic_Regression_20260413_114747.pkl",
+    "model_metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+    }
+}
